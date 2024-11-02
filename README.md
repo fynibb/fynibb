@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @fynibb
+- 👀 I’m interested in Coding with Lua
+- 🌱 I’m currently learning Lua Trying to lern
+- 📫 How to reach me ( savetorben@gmail.com )
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Lua is Usefull
+- 🌑 I wish i could live on the moon its so pretty
