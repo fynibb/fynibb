@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Lua Trying to lern
 - 📫 How to reach me ( savetorben@gmail.com )
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Lua is Usefull
+- ⚡ Fun fact: Lua is Usefull and will always be
 - 🌑 I wish i could live on the moon its so pretty
